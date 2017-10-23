@@ -1,6 +1,6 @@
-package network.warzone.tgm.damage.tracker;
+package deterno.fight.tgm.damage.tracker;
 
-import network.warzone.tgm.damage.tracker.base.SimpleResolverManager;
+import deterno.fight.tgm.damage.tracker.base.SimpleResolverManager;
 
 import javax.annotation.Nonnull;
 import javax.annotation.Nullable;
