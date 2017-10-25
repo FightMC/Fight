@@ -1,0 +1,10 @@
+api:
+  enabled: false
+  url: api.fight
+  auth: secret
+  stats:
+    enabled: true
+rotation: maps/rotation.txt
+map:
+  sources:
+  - maps
